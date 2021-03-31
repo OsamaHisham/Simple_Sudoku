@@ -81,5 +81,5 @@ if __name__ == '__main__':
         [0, 9, 0, 4, 0, 0, 0, 7, 0],
         [0, 0, 6, 0, 0, 0, 0, 0, 0]
     ]
-    solve(board)
+    solve(board) 
     print_board(board)
